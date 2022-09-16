@@ -1,0 +1,61 @@
+Job Listings
+
+#FEATURES:
+1. Companies can post jobs.
+2. Candidate can apply for jobs.
+3. Companies can review the candidate profile and their applications.
+4. Candidate can search for jobs based on location, interest, level of packages(L/M/H), type of job.
+5. Candidates can see jobs on the home screen based on their preferences.
+
+
+
+Project Structure:
+- Candidate profile:
+    - Basic Details
+        - First Name, last name
+        - DATE OF BIRTH
+        - Gender
+        - Email
+        - Phone No.
+        - City & State, Country
+    - Working details
+        - Currently worked
+        - Past history
+        - Company Name
+        - Company reference(previous employee name & no.)
+        - Start to End date
+        - Job Title
+    - Education Details
+        - School/College name
+        - Start date & Passout date -> Calculate direct
+        - Type of Degree
+
+    - Skills
+        - Category of skills
+        - Industry Type
+        - Level of skills(1-5)
+        -
+- Company Profile:
+    - Basic details
+        - Company name
+        - Email
+    - Employer details
+        - first name, last name
+        - phone number
+    -Company details
+        - Industry type
+        - Country
+        - Company description
+        -
+    - Job details
+        - Job title -> Job category(pre-option)
+        - Work Address(written location)
+        - Job type
+            - part time
+            - full time
+            - freelancer
+        - No. of candidate to be hired
+        - Planned date to start this job
+        - Pay scale (*not necessary to disclose)
+        - Upload a resume
+    -
